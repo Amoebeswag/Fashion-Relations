@@ -1,0 +1,17 @@
+CODEBUCH,,,,,,
+,,,,,,
+TYPE,,,,RELATIONSHIP,,
+1,Akteur (Mensch),,,1,Holding,
+2,Label (Modehaus),,,2,Schüler/Auszubildender/Praktikant bei dem Label,
+,,,,3,Angestellter,
+,,,,4,Nachfolger des Creative Director,
+,,,,5,Gründer,
+,,,,6,Creative Director (aktueller Chefdesigner),
+,,,,,,
+,,,,,,
+EDGELIST,, ,,,NODELIST,
+,,,,,,
+Relationship,1 bis 6,,,,Name,ID - Abkürzung des Akteurs oder Labels
+Time,Zeit des Ereignisses (Relationship),,,,Location,Welcher Ort ist der Gründungsort?
+Decade,"in 20er Schritten ( 1900, 1920...)",,,,,
+Holding Percentage,Prozentanteile am Unternehmen (Aufteilung Holding),,,,,
